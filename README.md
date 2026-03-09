@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/MUH4MM4D-SH4KIB/MUH4MM4D-SH4KIB/blob/main/MUH4MM4D-SH4KIB.png?raw=true" alt="MUHAMMAD SHAKIB" width="150" style="border-radius: 50%;">
+  <img src="https://github.com/0xSHAK1B/0xSHAK1B/blob/main/0xSHAK1B.png?raw=true" alt="MUHAMMAD SHAKIB" width="150" style="border-radius: 50%;">
 
   <br><br>
 
