@@ -17,14 +17,14 @@
   </a>
   &nbsp;
   <a href="https://github.com/MUH4MM4D-SH4KIB">
-    <img src="https://img.shields.io/badge/GitHub-MUH4MM4D--SH4KIB-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0xSHAK1B-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;
   <a href="https://www.facebook.com/MUH4MM4DSH4KIB">
     <img src="https://img.shields.io/badge/Facebook-MUH4MM4DSH4KIB-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MUH4MM4D-SH4KIB&label=Views&color=555555&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0xSHAK1B&label=Views&color=555555&style=flat" alt="Profile views" />
 
 </div>
 
@@ -36,7 +36,7 @@ I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ l
 
 **Successfully bypassed:**
 
-`Facebook` · `Instagram` · `Facebook Lite` · `Instagram Lite` · `Threads` · `Business Suite` · `TikTok` · `TikTok Lite` · `Snapchat` · `VKontakte (VK)` · `Exness` · `AliExpress` · `Binance` · `PayPal` · `Ebay` · and many more across **social media, streaming, fintech, and e-commerce** apps.
+`Facebook` · `Instagram` · `Facebook Lite` · `Instagram Lite` · `Threads` · `Business Suite` · `WhatsApp` • `TikTok` · `TikTok Lite` · `Snapchat` · `VKontakte (VK)` · `Exness` · `AliExpress` · `PayPal` · `Ebay` · and many more across **social media, streaming, fintech, and e-commerce** apps.
 
 ---
 
@@ -92,7 +92,7 @@ I intercept and reconstruct **private/undocumented mobile APIs** — mapping aut
 
   
   &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUH4MM4D-SH4KIB&theme=default&hide_border=true&ring=0366d6&fire=e36209&currStreakLabel=24292e" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSHAK1B&theme=default&hide_border=true&ring=0366d6&fire=e36209&currStreakLabel=24292e" alt="GitHub Streak" />
 
 </div>
 
@@ -111,6 +111,6 @@ I intercept and reconstruct **private/undocumented mobile APIs** — mapping aut
 
   **Need something bypassed, reverse engineered, or built?**
 
-  📬 [Telegram](https://t.me/MUH4MM4DSH4KIB) · 💻 [GitHub](https://github.com/MUH4MM4D-SH4KIB) · 📘 [Facebook](https://www.facebook.com/MUH4MM4DSH4KIB)
+  📬 [Telegram](https://t.me/MUH4MM4DSH4KIB) · 💻 [GitHub](https://github.com/0xSHAK1B) · 📘 [Facebook](https://www.facebook.com/MUH4MM4DSH4KIB)
 
 </div>
