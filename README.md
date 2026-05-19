@@ -87,15 +87,7 @@ When you need a custom tool, dashboard, or website built around your automation 
 
 ---
 
-## 📦 What You Get When You Work With Me
 
-- ✅ **A working solution** — not just documentation or a report
-- ✅ **Clear delivery timelines** — agreed upfront before any work starts
-- ✅ **Direct communication** on Telegram — no agencies, no middlemen
-- ✅ **Ongoing support** if the app updates and breaks the integration
-- ✅ **NDA-friendly** — your project stays confidential
-
----
 
 
 ## 📬 Let's Talk
