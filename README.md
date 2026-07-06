@@ -49,7 +49,7 @@ Get full visibility into the network traffic of any Android app — even apps th
 
 **Apps I've successfully unlocked for inspection:**
 
-`Facebook` · `Instagram` · `Threads` · `Meta Business Suite` · `Messenger` · `WhatsApp` · `TikTok` · `TikTok Lite` · `Snapchat` · `VKontakte (VK)` · `Exness` · `AliExpress` · `PayPal` · `eBay` · and many more across **social media, streaming, fintech, and e-commerce**.
+`Facebook` · `Instagram` · `Threads` · `Meta Business Suite` · `Messenger` · `WhatsApp` · `TikTok` · `TikTok Lite` · `Snapchat` · `VKontakte (VK)` · `Exness` · `AliExpress` · `PayPal` · `eBay` · `X (Twitter)` · and many more across **social media, streaming, fintech, and e-commerce**.
 
 ---
 
